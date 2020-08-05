@@ -1,0 +1,24 @@
+ h1{
+  font-style:bold;
+  font-size:20 
+   
+}
+h2{
+  font-style:bold;
+  font-size:15;
+}
+
+.first {
+font-style: Italic;
+color: yellow;
+}
+
+.second {
+  font-style: courier new;
+  color: darkblue;
+}
+
+.third {
+  font-style: times new roman
+  color: green;
+}
