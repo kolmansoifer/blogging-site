@@ -1,7 +1,8 @@
  h1{
   font-style:bold;
-  font-size:20 
-   
+  font-size:20;
+  color: green;
+  
 }
 h2{
   font-style:bold;
@@ -10,7 +11,7 @@ h2{
 
 .first {
 font-style: Italic;
-color: yellow;
+color: purple;
 }
 
 .second {
@@ -19,6 +20,25 @@ color: yellow;
 }
 
 .third {
-  font-style: times new roman
+  font-style: times new roman;
   color: green;
+} */
+span{
+  color: red;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  margin: 10px;
+  
+}
+h2 {
+  color: blue;
 }
